@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  align-items: center;
+}
+
+.social {
+  display: flex;
+  gap: 10px;
+  flex: 1;
+}
+
+.logo {
+  flex: 1;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  gap: 20px;
+  flex: 1;
+  font-size: 20px;
+}
